@@ -1,5 +1,7 @@
 # awesome-foundation-model-multiomic-papers
 
+
+1. [2024 Cell] **Establishing a conceptual framework for holistic cell states and state transitions** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)00461-6)
 1. [2025 bioRxiv] **STEAMBOAT: Attention-based multiscale delineation of cellular interactions in tissues** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.06.647437v1.full.pdf)
 1. [2025 Nature] **Towards multimodal foundation models in molecular cell biology** [[paper]](https://www.nature.com/articles/s41586-025-08710-y)
 1. [2024 Nature Communications] **scPair: Boosting single cell multimodal analysis by leveraging implicit feature selection and single cell atlases** [[paper]](https://www.nature.com/articles/s41467-024-53971-2)
